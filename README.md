@@ -28,7 +28,7 @@ Projeyi bilgisayarınıza indirmek için terminal veya komut istemcisinde şu ko
 
 bash
 Kopyala
-git clone https://github.com/kullanici-adi/metro-agi.git
+git clone https://github.com/aysgl37/AysegulTugceKartal_MetroSim-lasyon.py/commit/46bc79a2f34f11ff0b0a690bcd9534a4abf0875f
 Alternatif olarak, projeyi zip olarak indirip çıkartabilirsiniz.
 
 2. Gereksinimler
